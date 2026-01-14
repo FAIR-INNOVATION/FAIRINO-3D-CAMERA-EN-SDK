@@ -3,11 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎访问AIRLab软件用户手册 ...
-========================================
+Welcome to the User Manual for the 3D Camera SDK Software
+==============================================================
 
 .. toctree::
    :maxdepth: 5
-   :caption: 用户手册
+   :caption: User Manual
 
    manual/index.rst
+
